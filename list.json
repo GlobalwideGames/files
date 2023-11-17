@@ -7,6 +7,10 @@
     "gameroot": "BitLife/",
     "game": "Bit Life"
   },
+  {
+    "gameroot": "MadnessCombat/",
+    "game": "MadnessCombat"
+  },
     {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
