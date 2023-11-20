@@ -11,7 +11,11 @@
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
   },
-    {
+  {
+    "gameroot": "PrecisionClient/",
+    "game": "PrecisionClient"
+  },
+  {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   }
