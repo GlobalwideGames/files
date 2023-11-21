@@ -12,6 +12,10 @@
     "game": "RetroBowl"
   },
   {
+    "gameroot": "RiddleSchool/",
+    "game": "RiddleSchool"
+  },
+  {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   }
