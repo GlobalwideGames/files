@@ -20,6 +20,10 @@
     "game": "RiddleSchool2"
   },
   {
+    "gameroot": "AmongUs/",
+    "game": "Among Us"
+  },
+  {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   }
