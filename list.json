@@ -24,6 +24,10 @@
     "game": "Among Us"
   },
   {
+    "gameroot": "Roblox/",
+    "game": "Roblox"
+  },
+  {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   }
