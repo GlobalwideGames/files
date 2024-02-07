@@ -40,6 +40,10 @@
     "game": "Bacon May Die"
   },
   {
+    "gameroot": "99Balls/",
+    "game": "99 Balls"
+  },
+  {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
   }
