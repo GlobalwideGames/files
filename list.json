@@ -35,6 +35,10 @@
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   },
+   {
+    "gameroot": "BaconMayDie/",
+    "game": "Bacon May Die"
+  },
   {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
