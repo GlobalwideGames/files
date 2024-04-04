@@ -44,6 +44,10 @@
     "game": "99 Balls"
   },
   {
+    "gameroot": "1on1soccer/",
+    "game": "1on1soccer"
+  },
+  {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
   }
