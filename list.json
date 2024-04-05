@@ -52,6 +52,10 @@
     "game": "Learn To Fly"
   },
   {
+    "gameroot": "LearnToFly2/",
+    "game": "Learn To Fly 2"
+  },
+  {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
   }
