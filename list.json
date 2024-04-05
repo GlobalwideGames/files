@@ -48,6 +48,10 @@
     "game": "1on1soccer"
   },
   {
+    "gameroot": "LearnToFly/",
+    "game": "Learn To Fly"
+  },
+  {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
   }
