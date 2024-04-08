@@ -48,6 +48,10 @@
     "game": "1on1soccer"
   },
   {
+    "gameroot": "PapasPizzera/",
+    "game": "Papas Pizzera"
+  },
+  {
     "gameroot": "LearnToFly/",
     "game": "Learn To Fly"
   },
