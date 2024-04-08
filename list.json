@@ -56,6 +56,10 @@
     "game": "Learn To Fly"
   },
   {
+    "gameroot": "GunMayhem/",
+    "game": "GunMayhem"
+  },
+  {
     "gameroot": "LearnToFly2/",
     "game": "Learn To Fly 2"
   },
