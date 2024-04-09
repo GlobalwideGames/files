@@ -20,6 +20,26 @@
     "game": "RiddleSchool2"
   },
   {
+    "gameroot": "RiddleSchool3/",
+    "game": "RiddleSchool3"
+  },
+  {
+    "gameroot": "RiddleSchool4/",
+    "game": "RiddleSchool4"
+  },
+  {
+    "gameroot": "RiddleSchool5/",
+    "game": "RiddleSchool5"
+  },
+  {
+    "gameroot": "RiddleSchoolTransfer/",
+    "game": "RiddleSchoolTransfer"
+  },
+  {
+    "gameroot": "RiddleSchoolTransfer2/",
+    "game": "RiddleSchoolTransfer2"
+  },
+  {
     "gameroot": "BloonsTD5/",
     "game": "BloonsTD5"
   },
