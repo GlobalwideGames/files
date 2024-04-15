@@ -7,9 +7,17 @@
     "gameroot": "EpicLife/",
     "game": "EpicLife"
   },
-   {
+  {
+    "gameroot": "SubwaySurfers/",
+    "game": "Subway Surfers"
+  },
+  {
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
+  },
+  {
+   "gameroot": "8ball/",
+   "game": "8 Ball"
   },
   {
     "gameroot": "RiddleSchool/",
