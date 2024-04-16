@@ -8,6 +8,10 @@
     "game": "EpicLife"
   },
   {
+    "gameroot": "bntts/",
+    "game": "Big Neon Tower Vs Tiny Square"
+  },
+  {
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
   },
