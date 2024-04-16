@@ -5,6 +5,7 @@
 # DMCA Takedown 
  If you want **YOUR** game taken down email me proof of ownership of the game and why you want it taken down! Don't just take down the website please! 
 
+ Email: [theglobegames@gmail.com](mailto:theglobegames@gmail.com) 
 # Info
 - Made by me posh
 - just where I host the game files for global the front end is in the main repo
