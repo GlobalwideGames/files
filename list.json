@@ -8,6 +8,10 @@
     "game": "Super Hot"
   },
   {
+    "gameroot": "btts/",
+    "game": "Big Tower Tiny Square"
+  },
+  {
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
   },
