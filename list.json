@@ -24,6 +24,10 @@
    "game": "8 Ball"
   },
   {
+    "gameroot": "TempleRun2/",
+    "game": "Temple Run 2"
+   },
+  {
     "gameroot": "RiddleSchool/",
     "game": "RiddleSchool"
   },
