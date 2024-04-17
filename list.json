@@ -16,6 +16,22 @@
     "game": "Big Tower Tiny Square"
   },
   {
+    "gameroot": "vex3/",
+    "game": "Vex3"
+  },
+  {
+    "gameroot": "TinyFishing/",
+    "game": "Tiny Fishing"
+  },
+  {
+    "gameroot": "motox3m/",
+    "game": "motox3m"
+  },
+  {
+    "gameroot": "paperio2/",
+    "game": "Paper.io 2"
+  },
+  {
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
   },
