@@ -8,6 +8,10 @@
     "game": "Super Hot"
   },
   {
+    "gameroot": "BasketballStars/",
+    "game": "Basketball Stars"
+  },
+  {
     "gameroot": "BigTowerTinySquare/",
     "game": "Big Tower Tiny Square"
   },
