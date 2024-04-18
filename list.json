@@ -8,6 +8,10 @@
     "game": "Super Hot"
   },
   {
+    "gameroot": "vex3/",
+    "game": "vex 3"
+  },
+  {
     "gameroot": "BasketballStars/",
     "game": "Basketball Stars"
   },
