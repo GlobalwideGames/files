@@ -16,6 +16,10 @@
     "game": "Big Tower Tiny Square"
   },
   {
+    "gameroot": "Vex3/",
+    "game": "Vex 3"
+  },
+  {
     "gameroot": "TinyFishing/",
     "game": "Tiny Fishing"
   },
