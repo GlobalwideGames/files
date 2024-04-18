@@ -16,6 +16,18 @@
     "game": "Cut The Rope"
   },
   {
+    "gameroot": "Bloxors/",
+    "game": "Bloxors"
+  },
+  {
+    "gameroot": "SortTheCourt/",
+    "game": "Sort The Court"
+  },
+  {
+    "gameroot": "RooftopSnipers/",
+    "game": "Rooftop Snipers"
+  },
+  {
     "gameroot": "StealingTheDiamond/",
     "game": "Stealing The Diamond"
   },
