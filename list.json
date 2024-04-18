@@ -12,6 +12,14 @@
     "game": "vex 3"
   },
   {
+    "gameroot": "StealingTheDiamond/",
+    "game": "Stealing The Diamond"
+  },
+  {
+    "gameroot": "EscapingThePrison/",
+    "game": "Escaping The Prison"
+  },
+  {
     "gameroot": "BasketballStars/",
     "game": "Basketball Stars"
   },
