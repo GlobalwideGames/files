@@ -12,6 +12,10 @@
     "game": "vex 3"
   },
   {
+    "gameroot": "SubwaySurfers/",
+    "game": "Subway Surfers"
+  },
+  {
     "gameroot": "CutTheRope/",
     "game": "Cut The Rope"
   },
