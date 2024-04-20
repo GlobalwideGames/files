@@ -12,6 +12,10 @@
     "game": "Burrito Bison"
   },
   {
+    "gameroot": "WorldsHardestGame/",
+    "game": "World's Hardest Game"
+  },
+  {
     "gameroot": "SubwaySurfers/",
     "game": "Subway Surfers"
   },
