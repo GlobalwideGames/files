@@ -12,6 +12,10 @@
     "game": "Burrito Bison"
   },
   {
+    "gameroot": "TubeJumpers/",
+    "game": "Tube Jumpers"
+  },
+  {
     "gameroot": "WorldsHardestGame/",
     "game": "Worlds Hardest Game"
   },
