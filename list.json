@@ -12,6 +12,30 @@
     "game": "Hobo"
   },
   {
+    "gameroot": "Hobo2/",
+    "game": "Hobo 2 "
+  },
+  {
+    "gameroot": "Hobo3/",
+    "game": "Hobo 3"
+  },
+  {
+    "gameroot": "Hobo4/",
+    "game": "Hobo 4"
+  },
+  {
+    "gameroot": "Hobo5/",
+    "game": "Hobo 5"
+  },
+  {
+    "gameroot": "Hobo6/",
+    "game": "Hobo 6"
+  },
+  {
+    "gameroot": "Hobo7/",
+    "game": "Hobo 7"
+  },
+  {
     "gameroot": "BurritoBison/",
     "game": "Burrito Bison"
   },
