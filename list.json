@@ -8,6 +8,10 @@
     "game": "Super Hot"
   },
   {
+    "gameroot": "Hobo/",
+    "game": "Hobo"
+  },
+  {
     "gameroot": "BurritoBison/",
     "game": "Burrito Bison"
   },
