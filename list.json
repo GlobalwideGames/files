@@ -16,7 +16,7 @@
     "game": "Hobo 2 "
   },
   {
-    "gameroot": "flash/?swf=hobo3.swf",
+    "gameroot": " flash/?swf=hobo3.swf",
     "game": "Hobo 3"
   },
   {
@@ -164,7 +164,7 @@
     "game": "99 Balls"
   },
   {
-    "gameroot": "1on1soccer/",
+    "gameroot": "flash/?swf=1on1soccer.swf",
     "game": "1on1soccer"
   },
   {
