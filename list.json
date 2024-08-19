@@ -204,6 +204,10 @@
     "game": "GunMayhem2"
   },
   {
+    "gameroot": "Minecraft/",
+    "game": "Minecraft"
+  },
+  {
     "gameroot": "LearnToFly2/",
     "game": "Learn To Fly 2"
   },
