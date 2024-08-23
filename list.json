@@ -64,6 +64,22 @@
     "game": "Getaway Shootout"
   },
   {
+    "gameroot": "flash/?swf=ducklife.swf",
+    "game": "Duck Life"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife2.swf",
+    "game": "Duck Life 2"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife3.swf",
+    "game": "Duck Life 3"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife4.swf",
+    "game": "Duck Life 4"
+  },
+  {
     "gameroot": "WorldsHardestGame/",
     "game": "Worlds Hardest Game"
   },
