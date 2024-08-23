@@ -116,6 +116,18 @@
     "game": "Basketball Stars"
   },
   {
+    "gameroot": "TimeShooter/",
+    "game": "Time Shooter"
+  },
+  {
+    "gameroot": "TimeShooter2/",
+    "game": "Time Shooter 2"
+  },
+  {
+    "gameroot": "TimeShooter3/",
+    "game": "Time Shooter 3"
+  },
+  {
     "gameroot": "BigTowerTinySquare/",
     "game": "Big Tower Tiny Square"
   },
