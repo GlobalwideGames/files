@@ -8,10 +8,6 @@
     "game": "Super Hot"
   },
   {
-    "gameroot": "flash/?swf=sniperassassin.swf",
-    "game": "Sniper Assassin"
-  },
-  {
     "gameroot": "flash/?swf=sniperassassin2.swf",
     "game": "Sniper Assassin 2"
   },
@@ -22,10 +18,6 @@
   {
     "gameroot": "flash/?swf=sniperassassin4.swf",
     "game": "Sniper Assassin 4"
-  },
-  {
-    "gameroot": "flash/?swf=sniperassassin5.swf",
-    "game": "Sniper Assassin 5"
   },
   {
     "gameroot": "flash/?swf=hobo.swf",
