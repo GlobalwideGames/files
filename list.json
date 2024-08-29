@@ -136,6 +136,10 @@
     "game": "paperio 2"
   },
   {
+    "gameroot": "DriftHunters/",
+    "game": "Drift Hunters"
+  },
+  {
     "gameroot": "RetroBowl/",
     "game": "RetroBowl"
   },
