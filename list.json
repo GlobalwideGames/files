@@ -220,6 +220,10 @@
     "game": "Learn To Fly"
   },
   {
+    "gameroot": "Vex3/",
+    "game": "Vex3"
+  },
+  {
     "gameroot": "Vex4/",
     "game": "Vex4"
   },
