@@ -240,6 +240,10 @@
     "game": "snowball"
   },
   {
+    "gameroot": "FNAF2/",
+    "game": "FNAF 2"
+  },
+  {
     "gameroot": "Minecraft/",
     "game": "Minecraft"
   },
