@@ -236,6 +236,10 @@
     "game": "GunMayhem2"
   },
   {
+    "gameroot": "snowball/",
+    "game": "snowball"
+  },
+  {
     "gameroot": "Minecraft/",
     "game": "Minecraft"
   },
