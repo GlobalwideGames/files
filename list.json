@@ -241,11 +241,15 @@
   },
   {
     "gameroot": "FNAF2/",
-    "game": "FNAF 2"
+    "game": "FNAF2"
   },
   {
     "gameroot": "Minecraft/",
     "game": "Minecraft"
+  },
+  {
+    "gameroot": "Run3/",
+    "game": "Run3"
   },
   {
     "gameroot": "LearnToFly2/",
