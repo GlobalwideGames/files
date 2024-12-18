@@ -8,6 +8,10 @@
     "game": "Cookie Clicker"
   },
   {
+    "gameroot": "BlockBlast/",
+    "game": "Block Blast"
+  },
+  {
     "gameroot": "SuperHot/",
     "game": "Super Hot"
   },
