@@ -8,6 +8,10 @@
     "game": "Cookie Clicker"
   },
   {
+    "gameroot": "ClusterRush/",
+    "game": "Cluster Rush"
+  },
+  {
     "gameroot": "BlockBlast/",
     "game": "Block Blast"
   },
