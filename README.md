@@ -7,5 +7,5 @@
 
  Email: [theglobegames@gmail.com](mailto:theglobegames@gmail.com) 
 # Info
-- Made by me posh
+- Made by me josh
 - just where I host the game files for global the front end is in the main repo
