@@ -12,6 +12,10 @@
     "game": "Cluster Rush"
   },
   {
+    "gameroot": "CrossyRoad/",
+    "game": "Crossy Road"
+  },
+  {
     "gameroot": "PolyTrack/",
     "game": "Poly Track"
   },
