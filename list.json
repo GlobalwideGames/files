@@ -12,6 +12,10 @@
     "game": "Cluster Rush"
   },
   {
+    "gameroot": "fnaf1/",
+    "game": "Fnaf 1"
+  },
+  {
     "gameroot": "CrossyRoad/",
     "game": "Crossy Road"
   },
