@@ -8,6 +8,10 @@
     "game": "Cookie Clicker"
   },
   {
+    "gameroot": "RagdollArchers/",
+    "game": "Ragdoll Archers"
+  },
+  {
     "gameroot": "ClusterRush/",
     "game": "Cluster Rush"
   },
