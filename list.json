@@ -12,6 +12,10 @@
     "game": "Ragdoll Archers"
   },
   {
+    "gameroot": "RagdollHit/",
+    "game": "Ragdoll Hit"
+  },
+  {
     "gameroot": "ClusterRush/",
     "game": "Cluster Rush"
   },
