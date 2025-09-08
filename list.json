@@ -112,6 +112,10 @@
     "game": "My Friend Pedro"
   },
   {
+    "gameroot": "flash/?swf=madnesscombat.swf",
+    "game": "Madness Combat"
+  },
+  {
     "gameroot": "WorldsHardestGame/",
     "game": "Worlds Hardest Game"
   },
