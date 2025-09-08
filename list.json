@@ -104,6 +104,10 @@
     "game": "Duck Life 4"
   },
   {
+    "gameroot": "flash/?swf=portal.swf",
+    "game": "Portal"
+  },
+  {
     "gameroot": "WorldsHardestGame/",
     "game": "Worlds Hardest Game"
   },
