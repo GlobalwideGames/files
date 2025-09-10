@@ -4,6 +4,10 @@
     "game": "Stickman Hook"
   },
   {
+    "gameroot": "SlowRoads/",
+    "game": "Slow Roads"
+  },
+  {
     "gameroot": "CookieClicker/",
     "game": "Cookie Clicker"
   },
