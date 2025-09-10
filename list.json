@@ -24,6 +24,10 @@
     "game": "Fnaf 1"
   },
   {
+    "gameroot": "fnaf2/",
+    "game": "Fnaf 2"
+  },
+  {
     "gameroot": "CrossyRoad/",
     "game": "Crossy Road"
   },
