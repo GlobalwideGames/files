@@ -200,6 +200,10 @@
     "game": "RetroBowl"
   },
   {
+    "gameroot": "RetroBowlCollege/",
+    "game": "RetroBowlCollege"
+  },
+  {
    "gameroot": "8Ball/",
    "game": "8 Ball"
   },
