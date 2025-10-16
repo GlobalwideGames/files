@@ -12,6 +12,10 @@
     "game": "Cookie Clicker"
   },
   {
+    "gameroot": "BurritoBison/",
+    "game": "Burrito Bison"
+  },
+  {
     "gameroot": "RagdollArchers/",
     "game": "Ragdoll Archers"
   },
