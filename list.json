@@ -12,6 +12,10 @@
     "game": "Cookie Clicker"
   },
   {
+    "gameroot": "MiniGolf/",
+    "game": "Mini Golf"
+  },
+  {
     "gameroot": "BurritoBison/",
     "game": "Burrito Bison"
   },
