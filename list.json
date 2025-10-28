@@ -4,6 +4,10 @@
     "game": "Stickman Hook"
   },
   {
+    "gameroot": "BurgerRun/",
+    "game": "Burger Run"
+  },
+  {
     "gameroot": "Slope/",
     "game": "Slope"
   },
