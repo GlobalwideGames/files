@@ -4,6 +4,10 @@
     "game": "Stickman Hook"
   },
   {
+    "gameroot": "GeometryDash",
+    "game": "Geometry Dash"
+  },
+  {
     "gameroot": "AdventureCapitalist/",
     "game": "Adventure Capitalist"
   },
