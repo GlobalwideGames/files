@@ -160,10 +160,6 @@
     "game": "Minecraft"
   },
   {
-    "gameroot": "MiniGolf/",
-    "game": "Mini Golf"
-  },
-  {
     "gameroot": "flash/?swf=madnesscombat.swf",
     "game": "Madness Combat"
   },
