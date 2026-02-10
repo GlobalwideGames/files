@@ -64,6 +64,10 @@
     "game": "Cut The Rope"
   },
   {
+    "gameroot": "Doom3/",
+    "game": "Doom 3"
+  },
+  {
     "gameroot": "Drivemad/",
     "game": "Drivemad"
   },
