@@ -324,6 +324,10 @@
     "game": "Tube Jumpers"
   },
   {
+    "gameroot": "Undertale/",
+    "game": "Undertale"
+  },
+  {
     "gameroot": "Vex3/",
     "game": "Vex3"
   },
