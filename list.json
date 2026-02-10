@@ -188,6 +188,10 @@
     "game": "Quake 3 Arena"
   },
   {
+    "gameroot": "Raft/",
+    "game": "Raft"
+  },
+  {
     "gameroot": "RagdollArchers/",
     "game": "Ragdoll Archers"
   },
