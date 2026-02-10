@@ -180,6 +180,10 @@
     "game": "Portal"
   },
   {
+    "gameroot": "Quake3Arena",
+    "game": "Quake 3 Arena"
+  },
+  {
     "gameroot": "RagdollArchers/",
     "game": "Ragdoll Archers"
   },
