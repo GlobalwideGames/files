@@ -1,51 +1,91 @@
-[ 
+[
   {
-    "gameroot": "StickmanHook/",
-    "game": "Stickman Hook"
+    "gameroot": "99Balls/",
+    "game": "99 Balls"
   },
   {
-    "gameroot": "GeometryDash",
-    "game": "Geometry Dash"
+    "gameroot": "8Ball/",
+    "game": "8 Ball"
   },
   {
     "gameroot": "AdventureCapitalist/",
     "game": "Adventure Capitalist"
   },
   {
+    "gameroot": "AmongUs/",
+    "game": "Among Us"
+  },
+  {
+    "gameroot": "BasketballStars/",
+    "game": "Basketball Stars"
+  },
+  {
+    "gameroot": "BaconMayDie/",
+    "game": "Bacon May Die"
+  },
+  {
+    "gameroot": "BigTowerTinySquare/",
+    "game": "Big Tower Tiny Square"
+  },
+  {
+    "gameroot": "BlockBlast/",
+    "game": "Block Blast"
+  },
+  {
+    "gameroot": "Bloxors/",
+    "game": "Bloxors"
+  },
+  {
     "gameroot": "BurgerRun/",
     "game": "Burger Run"
-  },
-  {
-    "gameroot": "Slope/",
-    "game": "Slope"
-  },
-  {
-    "gameroot": "SlowRoads/",
-    "game": "Slow Roads"
-  },
-  {
-    "gameroot": "CookieClicker/",
-    "game": "Cookie Clicker"
-  },
-  {
-    "gameroot": "MiniGolf/",
-    "game": "Mini Golf"
   },
   {
     "gameroot": "BurritoBison/",
     "game": "Burrito Bison"
   },
   {
-    "gameroot": "RagdollArchers/",
-    "game": "Ragdoll Archers"
-  },
-  {
-    "gameroot": "RagdollHit/",
-    "game": "Ragdoll Hit"
-  },
-  {
     "gameroot": "ClusterRush/",
     "game": "Cluster Rush"
+  },
+  {
+    "gameroot": "CookieClicker/",
+    "game": "Cookie Clicker"
+  },
+  {
+    "gameroot": "CrossyRoad/",
+    "game": "Crossy Road"
+  },
+  {
+    "gameroot": "CutTheRope/",
+    "game": "Cut The Rope"
+  },
+  {
+    "gameroot": "Drivemad/",
+    "game": "Drivemad"
+  },
+  {
+    "gameroot": "DriftHunters/",
+    "game": "Drift Hunters"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife.swf",
+    "game": "Duck Life"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife2.swf",
+    "game": "Duck Life 2"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife3.swf",
+    "game": "Duck Life 3"
+  },
+  {
+    "gameroot": "flash/?swf=ducklife4.swf",
+    "game": "Duck Life 4"
+  },
+  {
+    "gameroot": "EscapingThePrison/",
+    "game": "Escaping The Prison"
   },
   {
     "gameroot": "fnaf1/",
@@ -56,32 +96,20 @@
     "game": "Fnaf 2"
   },
   {
-    "gameroot": "CrossyRoad/",
-    "game": "Crossy Road"
+    "gameroot": "GeometryDash",
+    "game": "Geometry Dash"
   },
   {
-    "gameroot": "PolyTrack/",
-    "game": "Poly Track"
+    "gameroot": "GetawayShootout/",
+    "game": "Getaway Shootout"
   },
   {
-    "gameroot": "BlockBlast/",
-    "game": "Block Blast"
+    "gameroot": "GunMayhem/",
+    "game": "GunMayhem"
   },
   {
-    "gameroot": "SuperHot/",
-    "game": "Super Hot"
-  },
-  {
-    "gameroot": "flash/?swf=sniperassassin2.swf",
-    "game": "Sniper Assassin 2"
-  },
-  {
-    "gameroot": "flash/?swf=sniperassassin3.swf",
-    "game": "Sniper Assassin 3"
-  },
-  {
-    "gameroot": "flash/?swf=sniperassassin4.swf",
-    "game": "Sniper Assassin 4"
+    "gameroot": "GunMayhem2/",
+    "game": "GunMayhem2"
   },
   {
     "gameroot": "flash/?swf=hobo.swf",
@@ -112,108 +140,52 @@
     "game": "Hobo 7"
   },
   {
-    "gameroot": "TubeJumpers/",
-    "game": "Tube Jumpers"
+    "gameroot": "flash/?swf=1on1soccer.swf",
+    "game": "1on1soccer"
   },
   {
-    "gameroot": "GetawayShootout/",
-    "game": "Getaway Shootout"
+    "gameroot": "LearnToFly/",
+    "game": "Learn To Fly"
   },
   {
-    "gameroot": "flash/?swf=ducklife.swf",
-    "game": "Duck Life"
+    "gameroot": "LearnToFly2/",
+    "game": "Learn To Fly 2"
   },
   {
-    "gameroot": "flash/?swf=ducklife2.swf",
-    "game": "Duck Life 2"
+    "gameroot": "Minecraft/",
+    "game": "Minecraft"
   },
   {
-    "gameroot": "flash/?swf=ducklife3.swf",
-    "game": "Duck Life 3"
-  },
-  {
-    "gameroot": "flash/?swf=ducklife4.swf",
-    "game": "Duck Life 4"
-  },
-  {
-    "gameroot": "flash/?swf=portal.swf",
-    "game": "Portal"
-  },
-  {
-    "gameroot": "flash/?swf=myfriendpedro.swf",
-    "game": "My Friend Pedro"
+    "gameroot": "MiniGolf/",
+    "game": "Mini Golf"
   },
   {
     "gameroot": "flash/?swf=madnesscombat.swf",
     "game": "Madness Combat"
   },
   {
-    "gameroot": "WorldsHardestGame/",
-    "game": "Worlds Hardest Game"
+    "gameroot": "flash/?swf=myfriendpedro.swf",
+    "game": "My Friend Pedro"
   },
   {
-    "gameroot": "SubwaySurfers/",
-    "game": "Subway Surfers"
+    "gameroot": "PapasPizzera/",
+    "game": "Papas Pizzera"
   },
   {
-    "gameroot": "CutTheRope/",
-    "game": "Cut The Rope"
+    "gameroot": "PolyTrack/",
+    "game": "Poly Track"
   },
   {
-    "gameroot": "Bloxors/",
-    "game": "Bloxors"
+    "gameroot": "flash/?swf=portal.swf",
+    "game": "Portal"
   },
   {
-    "gameroot": "SortTheCourt/",
-    "game": "Sort The Court"
+    "gameroot": "RagdollArchers/",
+    "game": "Ragdoll Archers"
   },
   {
-    "gameroot": "RooftopSnipers/",
-    "game": "Rooftop Snipers"
-  },
-  {
-    "gameroot": "StealingTheDiamond/",
-    "game": "Stealing The Diamond"
-  },
-  {
-    "gameroot": "EscapingThePrison/",
-    "game": "Escaping The Prison"
-  },
-  {
-    "gameroot": "BasketballStars/",
-    "game": "Basketball Stars"
-  },
-  {
-    "gameroot": "TimeShooter/",
-    "game": "Time Shooter"
-  },
-  {
-    "gameroot": "TimeShooter2/",
-    "game": "Time Shooter 2"
-  },
-  {
-    "gameroot": "TimeShooter3/",
-    "game": "Time Shooter 3"
-  },
-  {
-    "gameroot": "BigTowerTinySquare/",
-    "game": "Big Tower Tiny Square"
-  },
-  {
-    "gameroot": "TinyFishing/",
-    "game": "Tiny Fishing"
-  },
-  {
-    "gameroot": "TacticalAssassin2/",
-    "game": "Tactical Assassin 2"
-  },
-  {
-    "gameroot": "paperio2/",
-    "game": "paperio 2"
-  },
-  {
-    "gameroot": "DriftHunters/",
-    "game": "Drift Hunters"
+    "gameroot": "RagdollHit/",
+    "game": "Ragdoll Hit"
   },
   {
     "gameroot": "RetroBowl/",
@@ -223,14 +195,6 @@
     "gameroot": "RetroBowlCollege/",
     "game": "RetroBowlCollege"
   },
-  {
-   "gameroot": "8Ball/",
-   "game": "8 Ball"
-  },
-  {
-    "gameroot": "TempleRun2/",
-    "game": "Temple Run 2"
-   },
   {
     "gameroot": "RiddleSchool/",
     "game": "RiddleSchool"
@@ -260,40 +224,100 @@
     "game": "RiddleSchoolTransfer2"
   },
   {
+    "gameroot": "RooftopSnipers/",
+    "game": "Rooftop Snipers"
+  },
+  {
+    "gameroot": "RSTFO/",
+    "game": "RSTFO"
+  },
+  {
+    "gameroot": "Run3/",
+    "game": "Run3"
+  },
+  {
+    "gameroot": "Slope/",
+    "game": "Slope"
+  },
+  {
+    "gameroot": "SlowRoads/",
+    "game": "Slow Roads"
+  },
+  {
+    "gameroot": "snowball/",
+    "game": "snowball"
+  },
+  {
+    "gameroot": "flash/?swf=sniperassassin2.swf",
+    "game": "Sniper Assassin 2"
+  },
+  {
+    "gameroot": "flash/?swf=sniperassassin3.swf",
+    "game": "Sniper Assassin 3"
+  },
+  {
+    "gameroot": "flash/?swf=sniperassassin4.swf",
+    "game": "Sniper Assassin 4"
+  },
+  {
+    "gameroot": "SortTheCourt/",
+    "game": "Sort The Court"
+  },
+  {
+    "gameroot": "StealingTheDiamond/",
+    "game": "Stealing The Diamond"
+  },
+  {
+    "gameroot": "StickmanHook/",
+    "game": "Stickman Hook"
+  },
+  {
+    "gameroot": "SubwaySurfers/",
+    "game": "Subway Surfers"
+  },
+  {
+    "gameroot": "SuperHot/",
+    "game": "Super Hot"
+  },
+  {
+    "gameroot": "TacticalAssassin2/",
+    "game": "Tactical Assassin 2"
+  },
+  {
     "gameroot": "TanukiSunset/",
     "game": "Tanuki Sunset"
   },
   {
-    "gameroot": "AmongUs/",
-    "game": "Among Us"
+    "gameroot": "TempleRun2/",
+    "game": "Temple Run 2"
   },
   {
     "gameroot": "ThereIsNoGame/",
     "game": "ThereIsNoGame"
   },
   {
+    "gameroot": "TimeShooter/",
+    "game": "Time Shooter"
+  },
+  {
+    "gameroot": "TimeShooter2/",
+    "game": "Time Shooter 2"
+  },
+  {
+    "gameroot": "TimeShooter3/",
+    "game": "Time Shooter 3"
+  },
+  {
+    "gameroot": "TinyFishing/",
+    "game": "Tiny Fishing"
+  },
+  {
     "gameroot": "TombOfTheMask/",
     "game": "Tomb Of The Mask"
   },
-   {
-    "gameroot": "BaconMayDie/",
-    "game": "Bacon May Die"
-  },
   {
-    "gameroot": "99Balls/",
-    "game": "99 Balls"
-  },
-  {
-    "gameroot": "flash/?swf=1on1soccer.swf",
-    "game": "1on1soccer"
-  },
-  {
-    "gameroot": "PapasPizzera/",
-    "game": "Papas Pizzera"
-  },
-  {
-    "gameroot": "LearnToFly/",
-    "game": "Learn To Fly"
+    "gameroot": "TubeJumpers/",
+    "game": "Tube Jumpers"
   },
   {
     "gameroot": "Vex3/",
@@ -304,31 +328,11 @@
     "game": "Vex4"
   },
   {
-    "gameroot": "GunMayhem/",
-    "game": "GunMayhem"
+    "gameroot": "WorldsHardestGame/",
+    "game": "Worlds Hardest Game"
   },
   {
-    "gameroot": "GunMayhem2/",
-    "game": "GunMayhem2"
-  },
-  {
-    "gameroot": "snowball/",
-    "game": "snowball"
-  },
-  {
-    "gameroot": "Minecraft/",
-    "game": "Minecraft"
-  },
-  {
-    "gameroot": "Run3/",
-    "game": "Run3"
-  },
-  {
-    "gameroot": "LearnToFly2/",
-    "game": "Learn To Fly 2"
-  },
-  {
-    "gameroot": "Drivemad/",
-    "game": "Drivemad"
+    "gameroot": "paperio2/",
+    "game": "paperio 2"
   }
 ]
