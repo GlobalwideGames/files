@@ -24,6 +24,10 @@
     "game": "Bacon May Die"
   },
   {
+    "gameroot": "Bendy/",
+    "game": "Bendy"
+  },
+  {
     "gameroot": "BigTowerTinySquare/",
     "game": "Big Tower Tiny Square"
   },
