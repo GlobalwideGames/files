@@ -152,6 +152,10 @@
     "game": "1on1soccer"
   },
   {
+    "gameroot": "JetpackJoyride/",
+    "game": "Jetpack Joyride"
+  },
+  {
     "gameroot": "LearnToFly/",
     "game": "Learn To Fly"
   },
