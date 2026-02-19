@@ -40,6 +40,9 @@
     "game": "Bloxors"
   },
   {
+    "gameroot": "BuckshotRoulette/",
+    "game": "Buckshot Roulette"
+  {
     "gameroot": "BurgerRun/",
     "game": "Burger Run"
   },
