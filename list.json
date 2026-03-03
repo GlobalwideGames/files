@@ -356,6 +356,10 @@
     "game": "Worlds Hardest Game"
   },
   {
+    "gameroot": "ngon/",
+    "game": "ngon"
+  },
+  {
     "gameroot": "paperio2/",
     "game": "paperio 2"
   }
